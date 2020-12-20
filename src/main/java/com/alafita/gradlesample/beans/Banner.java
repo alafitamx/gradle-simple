@@ -1,11 +1,10 @@
 package com.alafita.gradlesample.beans;
 
-
 public class Banner {
 
-    String url;
-    String name;
-    Boolean active;
+    private String url;
+    private String name;
+    private Boolean active;
 
     public Banner() {
     }
